@@ -137,7 +137,9 @@ docker build --build-arg TMDB_V3_API_KEY=<your-api-key> -t netflix .
     - Access Jenkins in a web browser using the public IP of your EC2 instance.
         
         publicIp:8080
-        
+      
+ ![image](https://github.com/Omobaadewale/Deploy-Netflix-Project/assets/100092570/c2c168d4-9ee4-4ffe-80bc-aa5b37dfb6df)
+       
 2. **Install Necessary Plugins in Jenkins:**
 
 Goto Manage Jenkins →Plugins → Available Plugins →
